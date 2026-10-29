@@ -81,33 +81,13 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "BYB (Book Your Barber)",
+    title: "Full Stack Ecommerce Grocery Store",
     description:
-      "A digital startup platform connecting customers with barber services, featuring a convenient service-booking experience. Currently in development.",
-    tags: ["React", "Next.js", "Startup", "Booking System"],
-    imageUrl: "/corpcomment.png",
+      "A Full Stack Grocery Store project is a comprehensive web application designed to simulate an online e-commerce supermarket experience. It bridges the gap between end-user convenience and robust backend administration, providing a seamless platform for customers to browse, purchase, and manage groceries digitally.",
+    tags: ["React", "Next.js", "Startup", "Grocery Store"],
+    imageUrl: "/grocery-store.jpeg",
   },
-  {
-    title: "E-commerce Marketplace Operations",
-    description:
-      "Managed and supported marketplace operations across Amazon, eBay, Walmart, Daraz, and Shopify for freelance and client-based projects.",
-    tags: ["Amazon", "eBay", "Walmart", "Daraz", "Shopify"],
-    imageUrl: "/corpcomment.png",
-  },
-  {
-    title: "Freelance Web Development",
-    description:
-      "Developed websites and web-based solutions for freelance and local clients, working from client requirements and project objectives.",
-    tags: ["HTML", "CSS", "JavaScript", "React", "Python"],
-    imageUrl: "/corpcomment.png",
-  },
-  {
-    title: "YouTube Content Creation",
-    description:
-      "Produced and edited video content for YouTube and freelance clients using Adobe Premiere Pro, After Effects, CapCut, and Filmora.",
-    tags: ["Premiere Pro", "After Effects", "CapCut", "Filmora"],
-    imageUrl: "/corpcomment.png",
-  },
+
 ] as const;
 
 export const skillsData = [
